@@ -1,0 +1,16 @@
+# Should reside in ~/Library/Application\ Support/com.mitchellh/ghostty
+
+theme = Alfheim
+
+cursor-color = a164c4
+shell-integration-features = no-cursor
+cursor-style = block
+cursor-style-blink = false
+
+font-size = 20
+
+window-height = 45
+window-width = 110
+
+window-padding-x = 40
+window-padding-y = 30

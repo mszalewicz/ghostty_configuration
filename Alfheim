@@ -1,0 +1,10 @@
+# Should reside in .config/ghostty/themes
+
+palette = 5=#888888
+palette = 6=#64c4a6
+
+background = eeeeee
+foreground = 000000
+cursor-color = a164c4
+selection-background = e8ecf2
+selection-foreground = a164c4
